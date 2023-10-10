@@ -24,7 +24,7 @@ Microsoft Visual Code 다운: https://code.visualstudio.com/
 ### 기본 자료형(Data type)
 
 ### 연산자
-
+![Alt text] https://mblogthumb-phinf.pstatic.net/MjAxNzA3MThfMTcy/MDAxNTAwMzA2NTg0MDkx.X65rSudQIdMx0KIhdue2UnGYFU5ArkVdcx-067PCcm8g.agfEGKjBoH-vNtfAEimBSjvR72sHnKXDdooS2nqbUi4g.PNG.heartflow89/image.png?type=w800
 ### 제어문
 1. if
 2. for
