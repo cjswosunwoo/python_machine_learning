@@ -3,7 +3,7 @@
 ## 파이썬 기초
 
 ### 파이썬 개발환경 구성
-파이썬 다운로드 링크: https://www.python.org/downloads/
+파이썬 다운로드 링크: https://www.python.org/downloads/   
 Microsoft Visual Code 다운: https://code.visualstudio.com/
 
 ### 표준 입출력
